@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mainsections on Code Coverage</title>
+    <link>http://codecoverage.org/mainsection/</link>
+    <description>Recent content in Mainsections on Code Coverage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Sep 2020 01:32:16 +0000</lastBuildDate><atom:link href="http://codecoverage.org/mainsection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Episode 48 - Approximately a Salesforce Podcast</title>
+      <link>http://codecoverage.org/mainsection/episode-48-approximately-a-salesforce-podcast/</link>
+      <pubDate>Wed, 30 Sep 2020 01:32:16 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-48-approximately-a-salesforce-podcast/</guid>
+      <description>I would write some show notes, but time is tight, hence this is late. We DO talk about Salesforce a bit, with some quick comments on Bob (??) and… something else.
+Also F1, because Steven likes racing cars now.
+Check out this episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 47 - 98% Salesforce Content</title>
+      <link>http://codecoverage.org/mainsection/episode-47-98-salesforce-content/</link>
+      <pubDate>Mon, 27 Jul 2020 11:54:08 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-47-98-salesforce-content/</guid>
+      <description>We broke some world records or something and recorded again. This time we actually do talk about Salesforce for the whole show. Well, most of it. Some. Some of it. We definitely talk about Salesforce. Check out this episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 46 or 71 or Something</title>
+      <link>http://codecoverage.org/mainsection/episode-46-or-71-or-something/</link>
+      <pubDate>Wed, 08 Jul 2020 01:18:39 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-46-or-71-or-something/</guid>
+      <description>A whole lot of waffle (what else would you expect) with the occasional mention of Salesforce.
+Check out this episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 45 &amp;mdash; Season 2 or Something</title>
+      <link>http://codecoverage.org/mainsection/episode-45-season-2-or-something/</link>
+      <pubDate>Tue, 30 Jul 2019 05:38:56 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-45-season-2-or-something/</guid>
+      <description>It&amp;#8217;s a new highly anticipated episode of what might be the world&amp;#8217;s most irregular and/or infrequent podcast, with more waffles than ever. In this episode we talk about:
+ Zoom, Neal Stephenson, the ATO and security scares Matt overthinking things and forgetting his Salesforce basics (i.e. query selectivity in triggers) Formula One 10x developers Working out when to upgrade your tools Accenture&amp;#8217;s SF Power Kit for DX Testing Motorbikes, cars and servicing  You can find Accenture&amp;#8217;s SF Power Kit here: https://github.</description>
+    </item>
+    
+    <item>
+      <title>Episode 43 &amp;mdash;&amp;nbsp;The Brisbane Time Glitch</title>
+      <link>http://codecoverage.org/mainsection/episode-43-the-brisbane-time-glitch/</link>
+      <pubDate>Thu, 21 Mar 2019 03:15:53 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-43-the-brisbane-time-glitch/</guid>
+      <description>In this episode we&amp;#8217;re coming to you live from last year, where we&amp;#8217;re recording at Down Under Dreaming (yes, with a &amp;#8216;g&amp;#8217;): Brisbane Edition.
+In this episode we talk more Salesforce than usual in front of a real audience, and talk to both Emily Hey and Doug Christ who was visiting from the US.
+
+Check out this episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 44 - Did We Miss Something?</title>
+      <link>http://codecoverage.org/mainsection/44-did-we-miss-something/</link>
+      <pubDate>Fri, 08 Mar 2019 01:59:03 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/44-did-we-miss-something/</guid>
+      <description>Against all odds, it&amp;#8217;s an episode of Code Coverage. Topics discussed include:
+* Audio problems, not knowing we were actually having some (doh)
+* A brief tour or some of the features from Spring &amp;#8217;19
+* Salesforce and devops, or not
+* The end of a an era Aura
+* Lightning Web Components and their likely impact
+* New flow builder
+* The latest release of OS/2
+
+Check out this episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 42 &amp;mdash;&amp;nbsp;The Guilt</title>
+      <link>http://codecoverage.org/mainsection/episode-42-the-guilt/</link>
+      <pubDate>Fri, 09 Nov 2018 11:05:20 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-42-the-guilt/</guid>
+      <description>We really do mean to publish more often. Promise. We even line up times and and everything.&amp;nbsp;
+It&amp;#8217;s us again, talking somewhat about Salesforce, but with a few (ok, many) inevitable tangents thrown in. Some of the topics covered:
+&amp;nbsp;
+* Forcelandia and Dreamforce
+* Being a male ally
+* IDEs and Salesforce (again!)
+* Cars and the software that runs them
+Check out this episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 41 - Version 3.14 Beta</title>
+      <link>http://codecoverage.org/mainsection/episode-41-version-3-14-beta/</link>
+      <pubDate>Wed, 04 Jul 2018 02:04:27 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-41-version-3-14-beta/</guid>
+      <description>Another year passes, another episode gets release. Well it feels like that anyway. This took a week or so to publish after recording because our tracks got out of sync somehow. It sounds like my track (Matt) has been sped up slightly, with a few glitches pulling them back in time on occasion. So, apologies for that. Topics discussed in this episode:
+&amp;nbsp;
+  Some actual code that Steven wrote My washing machine Dealing with release bugs Mobile Operating Systems and virtual assistants CRUD, FLS and Security Reviews Salesforce IDEs and tools Software development / programming books we like    &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Episode 40 — The Grittier Gritty Re-reboot</title>
+      <link>http://codecoverage.org/mainsection/278-2/</link>
+      <pubDate>Wed, 18 Apr 2018 03:41:01 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/278-2/</guid>
+      <description>Lo and behold, we recorded again. It&amp;#8217;s almost becoming a habit. Once again you&amp;#8217;re stuck with myself and Steven rabbiting on about all sorts, including:
+ Using bookmarks in your browser (bleeding edge stuff here) Salesforce (some new cloud thing) Deployment antics and packages How to break production environments Trailhead, DX and Git &amp;#8211; the new learning curve Lightning experience performance Steven&amp;#8217;s ambitions to be Eminem, certifications and badges Where our listeners (you are very much appreciated!</description>
+    </item>
+    
+    <item>
+      <title>Episode 39 - The Gritty Reboot</title>
+      <link>http://codecoverage.org/mainsection/episode-39-the-gritty-reboot/</link>
+      <pubDate>Sun, 28 Jan 2018 06:44:16 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-39-the-gritty-reboot/</guid>
+      <description>We&amp;#8217;re back, and rambling more than ever. We chat about many things including the Spring release, IDEs and The Welkin Suite, computer keyboards and phones.
+I don&amp;#8217;t think we talk about JavaScript.</description>
+    </item>
+    
+    <item>
+      <title>Episode 38 - Jarrod Hunt Bags Developers</title>
+      <link>http://codecoverage.org/mainsection/episode-38-jarrod-hunt-bags-developers/</link>
+      <pubDate>Wed, 02 Aug 2017 02:10:48 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-38-jarrod-hunt-bags-developers/</guid>
+      <description>In this episode of Code Coverage Steven is off on a bit of a jolly so instead I&amp;#8217;m joined by Jarrod Hunt, a long time BA who&amp;#8217;s worked in various roles and is all to familiar with the perils of working with developers. We discuss:
+ The upcomingDown Under Dreaming Conference in Sydney Teaching code concepts to admins: what&amp;#8217;s useful for them to know The role of BAs sitting between clients and developers What developers could do better from a BA&amp;#8217;s point of view  There&amp;#8217;s a few surprising (at least to me) lessons for developers in here, and it&amp;#8217;s interesting to see that some of the same things developers look for a team member are the same as those that a BA might look for.</description>
+    </item>
+    
+    <item>
+      <title>Episode 37 — Almost Missed It</title>
+      <link>http://codecoverage.org/mainsection/episode-37-almost-missed-it/</link>
+      <pubDate>Fri, 14 Jul 2017 04:18:53 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-37-almost-missed-it/</guid>
+      <description>More rambling! A discussion of various topics, some are even related to Salesforce. In particular we cover:
+ Curtailing Twitter usage YouTube Watching: Rob Plays &amp;#8211; C64 Game Reviews from Rob Caporetto (if you like these please do subscribe!) Salesforce DX &amp;#8211; some initial thoughts Steven finally writes some Lightning Components Waiting for Platform Event handling paradigms Wishing for a larger runtime A quick discussion on Salesforce books, with the two classics:  Advanced Apex Programming by Dan Appleman Force.</description>
+    </item>
+    
+    <item>
+      <title>Episode 36 — There is Potential</title>
+      <link>http://codecoverage.org/mainsection/episode-36-there-is-potential/</link>
+      <pubDate>Fri, 16 Jun 2017 01:13:19 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-36-there-is-potential/</guid>
+      <description>Uhhh notes, notes, notes&amp;#8230;
+We talked about a few things:
+ Trailheadx &amp;#8211; I don&amp;#8217;t even know how to capitalise this A weird &amp;#8216;bug&amp;#8217; I was dealing with but solved the day after recording, it was a packaged field hiding a non-packaged field Summer &amp;#8217;17 and how it&amp;#8217;s now fast even in Australia Valence, a native integration solution for Salesforce that I&amp;#8217;m enjoying A bit more on Shield  &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Episode 35 — Or Not</title>
+      <link>http://codecoverage.org/mainsection/episode-35-or-not/</link>
+      <pubDate>Fri, 16 Jun 2017 01:10:47 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-35-or-not/</guid>
+      <description>Us blabbing about things. I can&amp;#8217;t remember what because I&amp;#8217;ve only just remembered to post this while doing Episode 36. Apologies! &amp;#8211; Lacey</description>
+    </item>
+    
+    <item>
+      <title>Episode 34 — Back in the Saddle</title>
+      <link>http://codecoverage.org/mainsection/episode-34-back-in-the-saddle/</link>
+      <pubDate>Tue, 21 Feb 2017 02:17:38 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-34-back-in-the-saddle/</guid>
+      <description>Show notes to come&amp;#8230; I&amp;#8217;ve got a bug to fix 😉</description>
+    </item>
+    
+    <item>
+      <title>Episode 33 — Scott Wells on Illuminated Cloud</title>
+      <link>http://codecoverage.org/mainsection/episode-33-scott-wells-on-illuminated-cloud/</link>
+      <pubDate>Sat, 01 Oct 2016 18:46:22 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-33-scott-wells-on-illuminated-cloud/</guid>
+      <description>In this episode of Code Coverage we talk to Scott Wells, the author of the Illumined Cloud IDE for Salesforce. Illuminated cloud is an alternative IDE built on ItelliJ, and sports many features that make life far easier for developers on the platform. Topics we discuss include:
+ How Scott got started building Illuminated Cloud The feature set of Illuminated Cloud How he implemented the debugger Weirdness with APIs on the platform Dreamforce!</description>
+    </item>
+    
+    <item>
+      <title>Episode 32 - Simon Goodyear</title>
+      <link>http://codecoverage.org/mainsection/episode-32-simon-goodyear/</link>
+      <pubDate>Fri, 30 Sep 2016 12:54:08 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-32-simon-goodyear/</guid>
+      <description>In this episode we&amp;#8217;re joined by Simon Goodyear, for a chat covering many aspects of developing on the platform. We got a bit carried away and it got a little long, but Simon has very interesting insights on all manner of topics, including:
+ Supporting customers when you develop a product Drinking beer and starting businesses Dynamics! External Objects and OData Lightning development on a large scale Platform limits and innovation Fun and games with managed packages The choice of IDEs available for the platform Damaging hardware and email management</description>
+    </item>
+    
+    <item>
+      <title>Episode 31 — What Happened There?</title>
+      <link>http://codecoverage.org/mainsection/episode-31-what-happened-there/</link>
+      <pubDate>Fri, 02 Sep 2016 00:35:37 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-31-what-happened-there/</guid>
+      <description>So we accidentally had another hiatus. This was entirely unintentional and we&amp;#8217;ve talked plenty about recording, it&amp;#8217;s just that sometimes life (and work) happens. We&amp;#8217;re back&amp;#8230; again&amp;#8230; and planning to keep up some momentum this time.
+ Steven wrote some code and a tester found some bugs A novel use of reports to do calculations akin to a roll-up summary Matt found a quirk with SOQL&amp;#8217;s DAY_IN_WEEK() function Swatch Internet Time Various tools we use:   Illuminated Cloud!</description>
+    </item>
+    
+    <item>
+      <title>Episode 30 — Dan Appleman on Salesforce Development Over The Years, Pluralsight and JavaScript with Lightning</title>
+      <link>http://codecoverage.org/mainsection/episode-30-dan-appleman-on-salesforce-development-over-the-years-pluralsight-and-javascript-with-lightning/</link>
+      <pubDate>Wed, 20 Apr 2016 23:47:00 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-30-dan-appleman-on-salesforce-development-over-the-years-pluralsight-and-javascript-with-lightning/</guid>
+      <description>In this episode we chat with the amazingly productive Dan Appleman (@DanAppleman); if you don&amp;#8217;t recognise that name then you can&amp;#8217;t have been around the Salesforce development community for very long! Dan makes some excellent points on a variety of topics, including:
+ Developing on the platform over the years and how the gotchas have changed How the CPU time governor limit is affected by process and workflows The joys of working with Salesforce support His PluralSight courses:  Apex for Programmers Salesforce for .</description>
+    </item>
+    
+    <item>
+      <title>Episode 29 — Cal Smith on Air Conditioning Patents, Advances in Computing and Lightning</title>
+      <link>http://codecoverage.org/mainsection/episode-29-cal-smith-on-air-conditioning-patents-adavances-in-computing-and-lightning/</link>
+      <pubDate>Thu, 10 Mar 2016 22:46:29 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-29-cal-smith-on-air-conditioning-patents-adavances-in-computing-and-lightning/</guid>
+      <description>In this episode we chat with Cal Smith (@CloudMech on Twitter). Cal has done many things over the years and has very interesting stories to tell, but he also goes above and beyond to teach others, and the evidence is clear to see on the StackExchange where he&amp;#8217;s known as crmprogdev.
+Some of the topics discussed include:
+ How he got involved with the platform How he uses the Salesforce StackExchange and what benefits he thinks it offers Mechanical engineering relates to software development Air conditioning patents in the auto industry The contrast between computing in the past and computing today  &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Episode 28 - Back From An Unintended Hiatus</title>
+      <link>http://codecoverage.org/mainsection/episode-28-back-from-an-unintended-hiatus/</link>
+      <pubDate>Tue, 01 Mar 2016 04:55:38 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-28-back-from-an-unintended-hiatus/</guid>
+      <description>We&amp;#8217;re still here, and we&amp;#8217;re going to be brining more shows in the very near future. In this episode we catch up on things, and get a good overview of Salesforce Shield from Steven.</description>
+    </item>
+    
+    <item>
+      <title>Episode 27 (The Lost Episode): Kevin Boyle from Gearset and musings on Salesforce Deployments</title>
+      <link>http://codecoverage.org/mainsection/episode-27-the-lost-episode-kevin-boyle-from-gearset-and-musings-on-salesforce-deployments/</link>
+      <pubDate>Wed, 09 Dec 2015 23:12:05 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-27-the-lost-episode-kevin-boyle-from-gearset-and-musings-on-salesforce-deployments/</guid>
+      <description>Kevin Boyle https://twitter.com/kevfromireland from Gearset https://gearset.com/ joins us at &amp;#8230;. (gulp) Dreamforce &amp;#8217;15 to talk about Salesforce Deployments and his product as well as other things.
+Yes, this episode is a bit late.
+You just won&amp;#8217;t believe the story about how this happened. Would you believe Lions and Tigers and bears! Oh My!
+How about&amp;#8230; the dog ate it?
+Or&amp;#8230; would you believe I&amp;#8217;m just really slack?
+Direct Download
+Listen here:</description>
+    </item>
+    
+    <item>
+      <title>Episode 26 - DF15 Special.  David Liu and sfdc99</title>
+      <link>http://codecoverage.org/mainsection/episode-26-df15-special-david-liu-and-sfdc99/</link>
+      <pubDate>Fri, 16 Oct 2015 00:42:40 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-26-df15-special-david-liu-and-sfdc99/</guid>
+      <description>Its David Liu creator of the fantastic sfdc99.com talking about his career, helping others, what sfdc99 hopes to achieve for new comers to Salesforce, certification and a whole bunch of things.
+Recorded at the DF15 Podcast booth.
+Thanks to Apttus X-Author for sponsoring the show.
+Part 1.
+
+&amp;nbsp;
+Part 2.
+
+Direct download Part 1.
+Direct download Part 2.</description>
+    </item>
+    
+    <item>
+      <title>Episode 25 - Dreamforce 2015 Special #1</title>
+      <link>http://codecoverage.org/mainsection/episode-25-dreamforce-2015-special-1/</link>
+      <pubDate>Wed, 16 Sep 2015 17:44:25 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-25-dreamforce-2015-special-1/</guid>
+      <description>Live from Dreamforce 2015 covering the Apex Debugger, Flow and Process Builder.</description>
+    </item>
+    
+    <item>
+      <title>Episode 24 - Daniel Ballinger on WSDL2Apex, Salesforce bugs, StackExchange and converting from C#</title>
+      <link>http://codecoverage.org/mainsection/episode-24-daniel-ballinger-on-wsdl2apex-salesforce-bugs-stackexchange-and-converting-from-c/</link>
+      <pubDate>Mon, 24 Aug 2015 11:17:42 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-24-daniel-ballinger-on-wsdl2apex-salesforce-bugs-stackexchange-and-converting-from-c/</guid>
+      <description>Salesforce MVP Daniel Ballinger talking about winning at StackExchange, the crazy bugs he&amp;#8217;s found in Salesforce, FuseIT&amp;#8217;s excellent WSDL2Apex replacement, converting from Salesforce to C# and a guide to installing a new stereo in a 2003 Mitsubishi Lancer.
+ Follow on twitter: https://twitter.com/FishOfPrey Read his blog: http://www.fishofprey.com/ See him on StackExchange: http://salesforce.stackexchange.com/users/102/daniel-ballinger Download the FuseIT SFDC Explorer: http://www.fuseit.com/Solutions/SFDC-Explorer/Help-WSDL-Parser.aspx How to install a new stereo in a 2003 Mitsubishi Lancer: http://www.fishofprey.com/2009/12/installing-new-stereo-in-2003.html  Direct Download</description>
+    </item>
+    
+    <item>
+      <title>Episode 22 - Eliot Harper and ExactTarget Journey Builder</title>
+      <link>http://codecoverage.org/mainsection/episode-22-eliot-harper-and-exacttarget-journey-builder/</link>
+      <pubDate>Fri, 12 Jun 2015 00:01:14 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-22-eliot-harper-and-exacttarget-journey-builder/</guid>
+      <description>In this episode of Code Coverage we talk to Eliot Harper (@eliotharper), CTO at Digital Logic, a Marketing Services company based in Melbourne, Australia. Eliot describes himself as a customer journey practitioner and is author of Journey Builder Developer&amp;#8217;s Guide http://amzn.to/1a9gWNo; an in-depth book on customer journey integration with Salesforce Marketing Cloud.  Eliot orientates us to Journey Builder development, covering:  * A brief orientation to Salesforce Marketing Cloud * The Customer Journey Revolution * Journey Builder * Customer Journey Applications * Interaction Components * Workflow Document Format (WDF) * Custom Activities</description>
+    </item>
+    
+    <item>
+      <title>Episode 21 - Chris Duarte on Trailhead</title>
+      <link>http://codecoverage.org/mainsection/chris-duarte-on-trailhead/</link>
+      <pubDate>Fri, 03 Apr 2015 02:02:06 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/chris-duarte-on-trailhead/</guid>
+      <description>Quick note, Steven had a bit of a technical issue with his microphone in this episode, but we decided to leave it in since it gave us a bit of a laugh.
+This episode on Code Coverage the wonderful Chris Duarte (@TheChrisDuarte) talks to us about Trailhead. Chris is the Managing Editor of Trailhead at Salesforce, and if you&amp;#8217;ve not heard of Trailhead yet then you must be under a serious pile of rocks.</description>
+    </item>
+    
+    <item>
+      <title>Episode 20 - Peter Knolle on Lightning</title>
+      <link>http://codecoverage.org/mainsection/episode-20-peter-knolle-on-lightning/</link>
+      <pubDate>Thu, 05 Mar 2015 08:11:24 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-20-peter-knolle-on-lightning/</guid>
+      <description>In this episode of Code Coverage we chat with Peter Knolle (@PeterKnolle), a Force.com MVP who works for Trifecta Technologies. Peter fills us in on developing components with the new Lightning framework.
+The topics Peter talks about are:
+ How he had to learn to use declarative development first Where the Lightning Framework has come from How Lightning apps fit in with the platform in general What pieces comprise a Lightning Component Bundle How two way binding makes dynamic interfaces easy to build How Lightning Components interact with Apex and the rest of the system Including other Javascript files and libraries in your components Creating interactions between components What events are, what types there are and how they can be used  He also suggests that a great way to get started is with the Lightning Component Developer Guide, and developers should also take a look at the excellent Trailhead, including it&amp;#8217;s Lightning Component Module.</description>
+    </item>
+    
+    <item>
+      <title>Episode 19 - Abhinav Keswani on Heroku</title>
+      <link>http://codecoverage.org/mainsection/episode-19-abhinav-keswani-on-heroku/</link>
+      <pubDate>Thu, 12 Feb 2015 01:26:33 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-19-abhinav-keswani-on-heroku/</guid>
+      <description>In this episode of Code Coverage we talk to the globe-trotting Abhinav Keswani (@wasabhi), CTO and Co-Founder of Trineo who are an amazing consulting company building products on both Salesforce and Heroku. Trineo was started in New Zealand and now have offices in Christchurch, Auckland, Sydney and Boulder.
+Abhinav shares with us some of his insights into developing on Heroku, covering:
+ How Trineo got started with Heroku &amp;amp; Salesforce What Heroku actually is The power of Postgres on Heroku Scaling apps on the platform and dyno management Structuring your apps and migrating monolithic apps to it The laws of physics and performance challenges Pricing and monitoring costs  &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Episode 18 - Kevin Poorman and the Apex 10 Commandments</title>
+      <link>http://codecoverage.org/mainsection/episode-18-kevin-poorman-and-the-apex-10-commandments/</link>
+      <pubDate>Sun, 25 Jan 2015 11:58:51 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-18-kevin-poorman-and-the-apex-10-commandments/</guid>
+      <description>Kevin (@codefriar) gives us a count down of the 10, 11,  12 Commandments of Apex Development (We added a few).
+This is a redux of his (And James Loghry&amp;#8217;s @dancinllama) presentation at Dreamforce &amp;#8217;14: http://youtu.be/T01lemqlJRU
+Direct Download</description>
+    </item>
+    
+    <item>
+      <title>Episode 17 - Passing the Technical Architect Review Board with Andrew Manetakis and Ehsan Mahmoudi</title>
+      <link>http://codecoverage.org/mainsection/episode-16-passing-the-technical-architect-review-board-with-andrew-manetakis-and-ehsan-mahmoudi/</link>
+      <pubDate>Thu, 01 Jan 2015 02:36:50 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-16-passing-the-technical-architect-review-board-with-andrew-manetakis-and-ehsan-mahmoudi/</guid>
+      <description>This week its a special episode, a recorded conversation between three Certified Technical Architects from Cloud Sherpas, its Steven and two of his team members Andrew Manetakis and Ehsan Mahmoudi.
+They discuss their reflections on the Technical Architect Review Board
+ The emotional impact of undertaking the certification. Case study tips. Assessing your readiness and how to prepare yourself. Required experience you should have. Handling the hypothetical. The difference between being an TA and being a Developer.</description>
+    </item>
+    
+    <item>
+      <title>Kevin O&#39;Hara on Open Source Development and NodeJS</title>
+      <link>http://codecoverage.org/mainsection/kevin-ohara-on-open-source-development-and-nodejs/</link>
+      <pubDate>Thu, 18 Dec 2014 10:00:32 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/kevin-ohara-on-open-source-development-and-nodejs/</guid>
+      <description>Another week, another Kevin! In this episode of Code Coverage we talk to Kevin O&amp;#8217;Hara, CTO of LevelEleven, Force.com MVP and creator of nForce, a NodeJS module for Salesforce integration.
+ Why he loves open source The Salesforce.com products they build at LevelEleven  nForce and NodeJS:
+ Dogfooding and finally getting to use it in production himself Promises in the upcoming nForce 1.0 using Bluebird Refactoring and maintaining the source code His thoughts on the recent fork of NodeJS creating io.</description>
+    </item>
+    
+    <item>
+      <title>Kevin Poorman on Ruby, Angular and Not PHP</title>
+      <link>http://codecoverage.org/mainsection/kevin-poorman-on-ruby-angular-and-not-php/</link>
+      <pubDate>Thu, 20 Nov 2014 01:49:05 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/kevin-poorman-on-ruby-angular-and-not-php/</guid>
+      <description>Returning to regular programming (pun intended) after the live episodes of Dreamforce, this week we talk to the unstoppable force that is Force.com MVP Kevin Poorman. We got to the end of this episode and still had plenty that we wanted to talk about, so we&amp;#8217;re planning to get him back on the show in the near future. After listening to this, we think you&amp;#8217;ll be wanting to hear more from Kevin too!</description>
+    </item>
+    
+    <item>
+      <title>DF14 Special: Episode 12 Tom Patros and AngularJS</title>
+      <link>http://codecoverage.org/mainsection/df14-special-episode-12-tom-patros-and-angularjs/</link>
+      <pubDate>Tue, 28 Oct 2014 10:30:16 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/df14-special-episode-12-tom-patros-and-angularjs/</guid>
+      <description>Red Argyle Managing Partner Tom Patros gives us the run down on AngularJS one of the hottest JavasScript frameworks for rich desktop and mobile applications.
+Tom discusses the best ways to get AngularJS and Salesforce working together and gives a background for those new to Angular to help them get started.
+Direct Download
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Episode 11 - Angela Mahoney and Adam Daw on running a Developer User Group</title>
+      <link>http://codecoverage.org/mainsection/episode-11-angela-mahoney-and-adam-daw-on-running-a-developer-user-group/</link>
+      <pubDate>Thu, 23 Oct 2014 06:19:18 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-11-angela-mahoney-and-adam-daw-on-running-a-developer-user-group/</guid>
+      <description>Angela Mahoney (Portland Developer Group co-lead) and Adam Daw (Ottawa Developer Group co-lead) discuss what makes a successful Developer Group and some of the things they do to have successful meetings.
+Direct Download</description>
+    </item>
+    
+    <item>
+      <title>Episode 0 - Who are Steven and Matt and what do they have planned for #DF14</title>
+      <link>http://codecoverage.org/mainsection/episode-0-who-are-steven-and-matt-and-what-do-they-have-planned-for-df14/</link>
+      <pubDate>Sat, 11 Oct 2014 02:18:18 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-0-who-are-steven-and-matt-and-what-do-they-have-planned-for-df14/</guid>
+      <description>It&amp;#8217;s our long overdue introduction episode where we explain who we are and then talk about what we&amp;#8217;re looking forward to for Dreamforce 2014 which is only a couple of days away!
+Direct Download</description>
+    </item>
+    
+    <item>
+      <title>Episode 10 - Gaurav Kheterpal and Mobile! Mobile! Mobile!</title>
+      <link>http://codecoverage.org/mainsection/episode-10-gaurav-kheterpal-and-mobile-mobile-mobile/</link>
+      <pubDate>Wed, 24 Sep 2014 14:39:30 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-10-gaurav-kheterpal-and-mobile-mobile-mobile/</guid>
+      <description>A deep dive into mobile development with Mobile Expert an Appcelerator Titan (MVP) Gaurav Kheterpal. https://www.linkedin.com/in/gauravkheterpal @gauravkheterpal   Gaurav will be speaking at Dreamforce, these are his sessions!   Find Your Feet on Force.com – A session aimed at newbie force.com developers helping them ramp up on the platform  https://success.salesforce.com/Ev_Sessions#/session/a2q30000000hMoQAAU   Automated Testing for Salesforce1 Mobile Apps Using the Appium Framework – A session for those looking to automate the testing of Salesforce1 native and hybrid apps  https://success.</description>
+    </item>
+    
+    <item>
+      <title>Episode 9 - Mary Scotton and Diversity in Tech, Dreamforce and the Dev and Admin zones</title>
+      <link>http://codecoverage.org/mainsection/episode-9-mary-scotton-and-diversity-in-tech-dreamforce-and-the-dev-and-admin-zones/</link>
+      <pubDate>Thu, 11 Sep 2014 04:14:07 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-9-mary-scotton-and-diversity-in-tech-dreamforce-and-the-dev-and-admin-zones/</guid>
+      <description>This week its Mary Scotton (@rockchick322004), Developer Evangelist at Salesforce.com
+Mary joins us to discuss her Women in Tech  blogging series as well as the broader &amp;#8216;Diversity in Tech&amp;#8217; landscape.
+We also cover the new Admin Zone (Sharing space with the Dev Zone), how Admins and Developers can work together and what&amp;#8217;s in store for Dreamforce!
+Note: The Luminary Developer Sessions Mary mentions in the Podcast are now public in Agenda Builder.</description>
+    </item>
+    
+    <item>
+      <title>Episode 8 - Gary Breavington on OWASP and Security</title>
+      <link>http://codecoverage.org/mainsection/episode-8-gary-breavington-on-owasp-and-security/</link>
+      <pubDate>Thu, 28 Aug 2014 02:39:27 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-8-gary-breavington-on-owasp-and-security/</guid>
+      <description>On this episode of Code Coverage we&amp;#8217;re joined by Gary Breavington a Senior Technical Consultant at Extentor Australia. Gary recently did a presentation to the Sydney DUG on OWASP and their Top Ten security risks for web applications. In this episode he talks to us about how those risks apply to Salesforce.com developers.
+ Australian Winter Vs. English Summer What OWASP does The OWASP Top Ten What the platform protects us from  Gary also talks about security issues and features that Salesforce.</description>
+    </item>
+    
+    <item>
+      <title>Episode 7 - Boris Bachovski on the Advanced Developer Certification</title>
+      <link>http://codecoverage.org/mainsection/episode-7-boris-bachovski-on-the-advanced-developer-certification/</link>
+      <pubDate>Thu, 14 Aug 2014 00:52:06 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-7-boris-bachovski-on-the-advanced-developer-certification/</guid>
+      <description>Boris Bachovski (@bachovski) is a Senior Salesforce.com Developer with Deloitte Australia, and is an ex-colleague of Matt&amp;#8217;s. Boris is an active member of the Salesforce StackExchange site, and he joins us this week to discuss his impressions of the Advanced Developer Certification. Topics discussed include:
+ How to know when you&amp;#8217;re ready for the 501 The sign up process, and what dates are what The multiple choice part of the exame How long to spend on the assignment Boris&amp;#8217; experience of the 501 as a whole Hard coding IDs is bad!</description>
+    </item>
+    
+    <item>
+      <title>Episode 6 - Josh Birk on Summer &#39;14 Highlights</title>
+      <link>http://codecoverage.org/mainsection/episode-6-josh-birk-on-summer-14-highlights/</link>
+      <pubDate>Thu, 31 Jul 2014 09:09:45 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-6-josh-birk-on-summer-14-highlights/</guid>
+      <description>Josh Birk (@joshbirk) is a Developer Evangelist at Salesforce.com and so if you&amp;#8217;re listening to this podcast there&amp;#8217;s a great chance that you&amp;#8217;ve already come across him in your internet adventures. He&amp;#8217;s recently started blogging at http://joshbirk.herokuapp.com on a variety of topics and also posts on the Salesfore Developers Blog. In this episode Josh talks to us about:
+His Background
+ How he arrived at Salesforce via ModelMetrics Using Flex and developing the Flex REST toolkits  Summer &amp;#8217;14 release highlights</description>
+    </item>
+    
+    <item>
+      <title>Episode 5 - Daniel Hoechst with Continuous Integration, Unit Test approaches and Remote Objects</title>
+      <link>http://codecoverage.org/mainsection/episode-5-daniel-hoechst-with-continuous-integration-unit-test-approaches-and-remote-objects/</link>
+      <pubDate>Sun, 20 Jul 2014 09:31:07 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-5-daniel-hoechst-with-continuous-integration-unit-test-approaches-and-remote-objects/</guid>
+      <description>Daniel is a 3 times Salesforce MVP, avid Salesforce user, administrator, and developer. He also helps lead the Salt Lake City area Salesforce User Group. He blogs at http://www.verticalcoder.com/ tweets at https://twitter.com/dhoechst and codes at https://github.com/dhoechst   Topics covered  How he learned Force.com and the importance of Twitter in the process.  Team Development   Continuous Integration with Drone.io and BitBucket. Tools for working with git &amp;#8211; SourceTree Books for learning git: Pro Git IDE tools &amp;#8211; MavensMate/Sublime    Remote Objects    What you can do with them Changes to Remote Objects coming in Summer &amp;#8217;14  Integrating Salesforce with your Fax Server.</description>
+    </item>
+    
+    <item>
+      <title>Episode 4 - Carolina Ruiz on Community Building</title>
+      <link>http://codecoverage.org/mainsection/episode-4-carolina-ruiz-on-community-building/</link>
+      <pubDate>Fri, 04 Jul 2014 00:53:47 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-4-carolina-ruiz-on-community-building/</guid>
+      <description>If you&amp;#8217;ve not heard of Carolina Ruiz yet then it can only be assumed that you&amp;#8217;ve spent a considerable period offline this year, as she&amp;#8217;s one of the two first female Force.com MVPs and a force to be reckoned with. The ever-brilliant Mary Scotton interviewed Carolina in her must read Women In Tech blog series. Carolina works at FinancialForce.com and writes a Salesforce.com development blog in Spanish, called Code and Vogue.</description>
+    </item>
+    
+    <item>
+      <title>Episode 3 – Andrew Fawcett on Enterprise Development</title>
+      <link>http://codecoverage.org/mainsection/episode-3-andrew-fawcett-on-enterprise-development/</link>
+      <pubDate>Fri, 20 Jun 2014 01:28:44 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-3-andrew-fawcett-on-enterprise-development/</guid>
+      <description>Andy Fawcett tells us about his journey into the world of Salesforce.com development at FinancialForce, and why he loves prototyping new ideas. Andy is the CTO of FinancialForce.com and maintains an excellent blog at andyinthecloud.com. In this episode we also cover:
+ How he started programming on the BBC Micro Where the famous enterprise patterns come from How patterns apply across many industries these days Do the patterns always apply? Why &amp;#8216;separation of concerns&amp;#8217; is a key principal Bulkification of all code, not just triggers Why you should build APIs into your applications Apex UML diagrams built using the Tooling API  For more information on the enterprise patterns, including a recording and the slides from Andy&amp;#8217;s Dreamforce &amp;#8217;13 presentation check out this post on his blog.</description>
+    </item>
+    
+    <item>
+      <title>Episode 2 - Reid Carlberg and the Internet of Things</title>
+      <link>http://codecoverage.org/mainsection/episode-2-reid-carlberg-and-the-internet-of-things/</link>
+      <pubDate>Thu, 05 Jun 2014 14:11:09 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-2-reid-carlberg-and-the-internet-of-things/</guid>
+      <description>Drones and how he integrated it them with Salesforce1 Dreamforce and why he won&amp;#8217;t be flying drones at inside How Reid got into Developer Evangelism. Node.js and why he likes it. Why Steven should buy Sublime Text and other favorite text editors The Internet of Things and how Salesforce can fit in. How you can get started with IoT programming at home. How to get started in Salesforce Development as a novice or experienced developer.</description>
+    </item>
+    
+    <item>
+      <title>Episode 1 - Keir Bowden and Developing for Salesforce1</title>
+      <link>http://codecoverage.org/mainsection/episode-1-keir-bowden-and-developing-for-salesforce1/</link>
+      <pubDate>Thu, 22 May 2014 01:03:20 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/episode-1-keir-bowden-and-developing-for-salesforce1/</guid>
+      <description>&amp;nbsp;
+Matt and I delighted to get this opportunity to announce something we’ve been talking about among ourselves for quite some time: “Code Coverage: a podcast for Developers on the Salesforce1 Platform”.
+&amp;nbsp;
+The inspiration for this podcast is Jared Miller and Mike Gerholt’s excellent ‘Button Click Admin’ podcast. Like the Button Click Admin our podcast will be in an interview format and feature one or more guests on topics near and dear to the guest’s heart.</description>
+    </item>
+    
+    <item>
+      <title>Thank you</title>
+      <link>http://codecoverage.org/mainsection/thank-you/</link>
+      <pubDate>Fri, 02 May 2014 11:48:29 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/thank-you/</guid>
+      <description>Thanks for registering to be a guest on the podcast.
+We really appreciate you volunteering to spend some time sharing what you know with the wider community.</description>
+    </item>
+    
+    <item>
+      <title>Guest Registration</title>
+      <link>http://codecoverage.org/mainsection/guest-registration/</link>
+      <pubDate>Fri, 02 May 2014 11:39:04 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/guest-registration/</guid>
+      <description>   First Name    Last Name    Title    Email    Company    City    State/Province    Country    Website    Best Contact Method: &amp;#8211;None&amp;#8211;Google Hangouts (Our Preferred Mechanism)SkypeGo To Meeting   Your Topic:    Your Bio:    Best Contact Time:    Anything Else We Should Know:         </description>
+    </item>
+    
+    <item>
+      <title>About Code Coverage</title>
+      <link>http://codecoverage.org/mainsection/about-code-coverage/</link>
+      <pubDate>Tue, 03 Dec 2013 23:59:22 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/about-code-coverage/</guid>
+      <description>&amp;nbsp;
+Code Coverage is a podcast for developers on the force.com platform, in each episode we talk to a developer about how they got involved with the platform, what they&amp;#8217;re working on, technologies they like and what they consider to be their most &amp;#8216;creative&amp;#8217; solution.
+ About the Hosts
+Matt Lacey (@laceysnr) is the Co-Founder of S.P Keasey Trading Co. and Proximity Insight. When not hacking away at all things on the Salesforce Platform Matt tinkers with old Atari computers and works on his first development passion – Games Development.</description>
+    </item>
+    
+    <item>
+      <title>System.debug(&#39;Hello, world!&#39;);</title>
+      <link>http://codecoverage.org/mainsection/hello-world/</link>
+      <pubDate>Tue, 03 Dec 2013 23:59:22 +0000</pubDate>
+      
+      <guid>http://codecoverage.org/mainsection/hello-world/</guid>
+      <description>Welcome to Code Coverage, a soon-to-be-released podcast focused on content for Force.com developers, where each week we&amp;#8217;ll be interviewing a developer from the community. We&amp;#8217;ll be talking to some of the most public faces but also those behind the scenes, finding out what their backgrounds are, what they&amp;#8217;re doing with the platform and what tools they love to use.</description>
+    </item>
+    
+  </channel>
+</rss>
